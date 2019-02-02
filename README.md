@@ -2,5 +2,5 @@
 
 Sample Xojo code for showcasing MacOS X's NSUserNotification framework using the open source MacOSLib.
 
-![NSUserNotificationLight preview image](NSUserNotification-light.jpg?raw=true "NSUserNotificationLight preview image")
-![NSUserNotificationDark preview image](NSUserNotification-dark.jpg?raw=true "NSUserNotificationDark preview image")
+![NSUserNotification preview image](NSUserNotification.jpg?raw=true "NSUserNotification preview image")
+![NSUserNotification example image](NSUserNotification-Example.jpg?raw=true "NSUserNotification example image")
